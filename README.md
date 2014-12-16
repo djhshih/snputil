@@ -11,8 +11,8 @@ Calculate SNP concordance from apt birdseed file.
 ### Build ###
 
     mkdir build
-		cmake ..
-		make
+    cmake ..
+    make
 
 ### Usage ###
 
